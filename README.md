@@ -7,3 +7,4 @@ Visit my blog, [Timonwa's Notes](https://blog.timonwa.com), for awesome technica
 Please give this repo a ⭐ if it was helpful to you.
 
 ![A screencast demo of the react chat app. I log in in with my Google account, the chat room shows up, then I log out](https://user-images.githubusercontent.com/63044364/211147631-d8b8a732-1572-4801-ba01-99a271b77bc4.gif)
+# a-pretty-cool-chat-application
