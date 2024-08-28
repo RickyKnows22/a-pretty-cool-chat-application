@@ -1,4 +1,4 @@
-#Pretty Cool Looking Chat Application based on ReactJS and Google Firebase Cloud Storage
+<h1>Pretty Cool Looking Chat Application based on ReactJS and Google Firebase Cloud Storage</h1>
 
 hey I guys, I just made this cool looking chat application using ReactJS and Firebase out of pure boredom
 
