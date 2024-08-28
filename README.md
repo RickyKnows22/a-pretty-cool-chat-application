@@ -1,10 +1,13 @@
-# Building a Real-time Chat App with ReactJs and Firebase. :writing_hand:
+#Pretty Cool Looking Chat Application based on ReactJS and Google Firebase Cloud Storage
 
-This is the code example for my article on [Building a Real-time Chat App with ReactJs and Firebase](https://www.freecodecamp.org/news/building-a-real-time-chat-app-with-reactjs-and-firebase/) for [FreeCodeCamp](https://freecodecamp.org/). Here is the [live demo](https://react-chat-timonwa.vercel.app/).
+hey I guys, I just made this cool looking chat application using ReactJS and Firebase out of pure boredom
 
-Visit my blog, [Timonwa's Notes](https://blog.timonwa.com), for awesome technical contents like articles, codesnippets, tech goodies, community projects and more.
+ - it uses your google account to log in
+ - Has GIF sending functionality so you can search for gifs in Tenor through the app and send em
+ - Has an emoji selector so you can use emojis too
 
-Please give this repo a ⭐ if it was helpful to you.
+<img width="2048" alt="Screenshot 2024-08-28 at 4 06 21 PM" src="https://github.com/user-attachments/assets/fd0aac97-512e-4e85-a5a9-31ef9d99a467">
 
-![A screencast demo of the react chat app. I log in in with my Google account, the chat room shows up, then I log out](https://user-images.githubusercontent.com/63044364/211147631-d8b8a732-1572-4801-ba01-99a271b77bc4.gif)
-# a-pretty-cool-chat-application
+<img width="472" alt="Screenshot 2024-08-28 at 5 09 19 PM" src="https://github.com/user-attachments/assets/273d1589-674d-4bb8-9a89-94b3862ca089">
+
+<img width="416" alt="Screenshot 2024-08-28 at 5 09 40 PM" src="https://github.com/user-attachments/assets/8e8645e9-907d-4cc7-9787-1ce1ec1e3c40">
